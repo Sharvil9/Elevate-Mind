@@ -1,14 +1,21 @@
-# Welcome to your Lovable project
+# Elevate-Mind
 
-## Project info
+## Project Info
 
+![Project Banner](assets/project-banner.png)
 
+Elevate-Mind is a modern web application designed to help users enhance their mental well-being through interactive features and a beautiful, intuitive interface.
 
+---
 
+## Features
 
-## What technologies are used for this project?
+- Engaging UI for mental wellness activities
+- Responsive design for all devices
+- Fast performance using Vite and React
+- Custom components with shadcn-ui and Tailwind CSS
 
-This project is built with:
+## Technologies Used
 
 - Vite
 - TypeScript
@@ -16,4 +23,8 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Getting Started
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Sharvil9/Elevate-Mind.git
