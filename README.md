@@ -2,7 +2,7 @@
 
 ## Project Info
 
-![Project Banner](assets/project-banner.png)
+![project-banner](https://github.com/user-attachments/assets/ae81a54f-eab1-4680-a134-182e6b3a2110)
 
 Elevate-Mind is a modern web application designed to help users enhance their mental well-being through interactive features and a beautiful, intuitive interface.
 
